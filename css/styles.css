@@ -831,7 +831,7 @@ img {
     font-size: 16px;
   }
   .work__subtitle {
-    font-size: 28px;
+    font-size: 27px;
   }
   .inner__wrapper {
     background-size: cover;
@@ -948,9 +948,6 @@ img {
     justify-content: flex-start;
     max-width: 223px;
   }
-  .work__subtitle {
-    font-size: 28px;
-  }
   .work__text {
     font-size: 15px;
   }
@@ -1048,7 +1045,7 @@ img {
     align-items: flex-start;
   }
   .work__subtitle {
-    font-size: 24px;
+    font-size: 20px;
     text-align: left;
   }
   .work__text {
@@ -1370,7 +1367,7 @@ img {
     max-width: 255px;
   }
   .work__subtitle {
-    font-size: 30px;
+    font-size: 27px;
   }
 }
 @media only screen and (min-width: 1024px) {
